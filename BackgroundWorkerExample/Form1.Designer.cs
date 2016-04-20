@@ -41,7 +41,7 @@
             this.btStart.Name = "btStart";
             this.btStart.Size = new System.Drawing.Size(75, 23);
             this.btStart.TabIndex = 0;
-            this.btStart.Text = "btStart";
+            this.btStart.Text = "Старт";
             this.btStart.UseVisualStyleBackColor = true;
             this.btStart.Click += new System.EventHandler(this.btStart_Click);
             // 
@@ -51,7 +51,7 @@
             this.btCancel.Name = "btCancel";
             this.btCancel.Size = new System.Drawing.Size(75, 23);
             this.btCancel.TabIndex = 1;
-            this.btCancel.Text = "btCancel";
+            this.btCancel.Text = "Стоп";
             this.btCancel.UseVisualStyleBackColor = true;
             this.btCancel.Click += new System.EventHandler(this.btCancel_Click);
             // 

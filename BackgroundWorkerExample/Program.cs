@@ -15,6 +15,7 @@ namespace BackgroundWorkerExample
         static void Main()
         {
             //Важный комментарий
+            //Важный комментарий 2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
